@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "src/tilegame.worlds",
+        "src/tilegame.tiles",
+        "src/tilegame.states",
+        "src/tilegame.input",
+        "src/tilegame.gfx",
+        "src/tilegame.enities",
+        "src/tilegame.display",
+        "src/tilegame",
+        "src/res",
+        "src/tilegame.utils"
+    ],
+    "java.project.outputPath": "bin"
+}
